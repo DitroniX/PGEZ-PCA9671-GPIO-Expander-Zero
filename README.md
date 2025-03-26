@@ -13,7 +13,7 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-![enter image description here](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20Overview.png)
+![PGEZ PCA9671 GPIO Expander Zero - 3D](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20Overview.png)
 
 The **PGEZ Zero** has been designed to be as flexible as possible, providing easy interfacing support to, and not exclusively:
 
