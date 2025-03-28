@@ -45,8 +45,8 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
 	 -  Arduino IDE
 	 -  Python
 	 -  C Libraries
-	 -  Others.
-	 - 
+	 -  Others
+	   
 [Libraries](https://github.com/RobTillaart/PCA9671)
 
 
@@ -57,7 +57,7 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
  - 1 x PGEZ Zero Stackable Board
 	 -  Fully populated with SMT and header connectors (except Pi Header)
 	 -  2 x Jumpers
-    	 -  Tested
+	 -  Tested
 
 **Available Separately**
 
