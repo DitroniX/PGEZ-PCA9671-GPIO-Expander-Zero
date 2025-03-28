@@ -11,7 +11,7 @@
  - Farming and Agricultural Projects.
  - Industrial applications, Test Systems and Development
 
-**Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
+**Supporting STEM Electronic Internet of Things & Home Automation Technology**
 
 ![PGEZ PCA9671 GPIO Expander Zero - 3D](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20Overview.png)
 
@@ -25,6 +25,7 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
  - AVR
  - Microchip PIC
  - GROVE EcoSystem
+ - Others..
 
 **PGEZ Zero** features the new PCA9671 GPIO Expander.  
 
@@ -33,8 +34,12 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
  - 64 I2C Addresses
  - Selectable 3V3 or 5V
  - GPIO 5V Tolerant Inputs
+ - Low Current LED on each GPIO (can be disabled)
  - Hardware and Software Resets
- - Supports 400 kHz and 1 MHz I2C Bus 
+ - Supports 400 kHz and 1 MHz I2C Bus
+ - Stackable design (up to 64 boards/addresses)
+ - Hardware reset via Pi Header, or User Button
+ - WS2812 RGB LED, via Pi Header GP18
  - Supported in development environments including:
 	 -  PlatformIO
 	 -  Arduino IDE
@@ -49,6 +54,16 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
 
 **In The Box**
 
+ - 1 x PGEZ Zero Stackable Board
+	 -  Fully populated with SMT and header connectors (except Pi Header)
+	 -  2 x Jumpers
+    	 -  Tested
+
+**Available Separately**
+
+ - Pi 40 Pin (2x40) Stackable Header Connector (with spacer and 2.5mm bolts)
+ - Grove Pigtail Cables
+   
 *Details to follow.*
 
 ## **Purchase**
