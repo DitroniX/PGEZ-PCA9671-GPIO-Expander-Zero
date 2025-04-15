@@ -2,6 +2,8 @@
 
 ## NEW For April 2025!
 
+![PGEZ PCA9671 GPIO Expander Zero - PROTO](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20PROTO.jpg)
+
 **PGEZ Zero** is a new STEM Maker and Developer SDK board, based on an PCA9671 GPIO Expander wrapped in a compact mechanical Pi Zero form.
 
 **PGEZ Zero** is ideal for:
