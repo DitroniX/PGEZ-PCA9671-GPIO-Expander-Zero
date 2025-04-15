@@ -15,6 +15,8 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology**
 
+![PGEZ PCA9671 GPIO Expander Zero on ESPuno Pi Zero](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/ESPuno%20Pi%20Zero%20with%20PGEZ%20PCA9671%20Port%20Expander.jpg)
+
 ![PGEZ PCA9671 GPIO Expander Zero - 3D](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20Overview.png)
 
 The **PGEZ Zero** has been designed to be as flexible as possible, providing easy interfacing support to, and not exclusively:
