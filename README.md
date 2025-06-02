@@ -1,6 +1,8 @@
 # PGEZ PCA9671 GPIO Expander Zero - Stackable (Max 64 boards)
 
-## NEW For April 2025!
+## NEW For April 2025!  
+
+See the latest [YouTube Video](https://www.youtube.com/watch?v=chLIlq1uky4)
 
 ![PGEZ PCA9671 GPIO Expander Zero - PROTO](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20PROTO.jpg)
 
