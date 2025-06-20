@@ -69,6 +69,9 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
 	 -  2 x Jumpers
 	 -  Tested
 
+  ![PGEZ Kit](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20STEM%20Kit.jpg)
+    
+
 **Available Separately**
 
  - Pi 40 Pin (2x40) Stackable Header Connector (with spacer and 2.5mm bolts)
