@@ -1,6 +1,6 @@
 # PGEZ PCA9671 GPIO Expander Zero - Stackable (Max 64 boards)
 
-## NEW For April 2025!  
+## NEW For April 2025!  Now Available on [eBay](https://www.ebay.co.uk/sch/i.html?_saslop=1&_ssn=ditronixuk&_dmd=2)
 
 See the latest [YouTube Video](https://www.youtube.com/watch?v=chLIlq1uky4)
 
