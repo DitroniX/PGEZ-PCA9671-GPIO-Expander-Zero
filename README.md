@@ -8,6 +8,8 @@ See the latest [YouTube Video](https://www.youtube.com/watch?v=chLIlq1uky4)
 
 **PGEZ Zero** is a new STEM Maker and Developer SDK board, based on an PCA9671 GPIO Expander wrapped in a compact mechanical Pi Zero form.
 
+![PGEZ on ESPuno Pi Zero](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20on%20ESPuno%20Pi%20Zero.jpg)
+
 **PGEZ Zero** is ideal for:
 
  - Educational and Classroom projects. 
@@ -32,6 +34,8 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
  - Microchip PIC
  - GROVE EcoSystem
  - Others..
+
+![PGEZ Zero](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero.png)
 
 **PGEZ Zero** features the new PCA9671 GPIO Expander.  
 
@@ -69,6 +73,8 @@ The **PGEZ Zero** has been designed to be as flexible as possible, providing eas
 
  - Pi 40 Pin (2x40) Stackable Header Connector (with spacer and 2.5mm bolts)
  - Grove Pigtail Cables
+
+ ![Angled Connectors](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20on%20ESPUno%20Pi%20Zero%20Stacked%20with%20Straight%20and%20Angled%20GPIO%20Pin%20Headers.jpg)
    
 *Details to follow.*
 
